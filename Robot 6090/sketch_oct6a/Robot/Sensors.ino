@@ -1,4 +1,4 @@
-#include <Wire.h>
+/*#include <Wire.h>
 #include <Adafruit_TCS34725.h>
 
 const int triggerFront = 5;
@@ -71,4 +71,4 @@ void loop() {
 
 
 
-}
+}*/
